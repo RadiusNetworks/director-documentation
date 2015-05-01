@@ -70,6 +70,7 @@ Director-API-Version: 1.0
       "beacons_unknown": 0,
       "credentials": [
         {
+          "id": "12",
           "description": "RSpec Test",
           "token": "855b59b1f1a2d621cd35aeef207d2341e268849b7026849b",
           "last_used_at": null
@@ -93,6 +94,7 @@ Director-API-Version: 1.0
       "beacons_unknown": 0,
       "credentials": [
         {
+          "id": "22",
           "description": "RSpec Test",
           "token": "dbfd27a6c8437968a631d05022e98c63144682857ee26c2e",
           "last_used_at": null
@@ -116,6 +118,7 @@ Director-API-Version: 1.0
       "beacons_unknown": 0,
       "credentials": [
         {
+          "id": "14",
           "description": "RSpec Test",
           "token": "189afe0616c8ebb6ed0e924f50ee07c6cea1fb61d338029b",
           "last_used_at": null
@@ -139,6 +142,7 @@ Director-API-Version: 1.0
       "beacons_unknown": 0,
       "credentials": [
         {
+          "id": "17",
           "description": "RSpec Test",
           "token": "7290ca7340d2304a15aae7cd6afd4b6ca0c3c379788b9b1f",
           "last_used_at": null
@@ -162,6 +166,7 @@ Director-API-Version: 1.0
       "beacons_unknown": 0,
       "credentials": [
         {
+          "id": "32",
           "description": "RSpec Test",
           "token": "938af838a3380ffb98d06dde2209894bdef6500424cb83bc",
           "last_used_at": null
@@ -185,6 +190,7 @@ Director-API-Version: 1.0
       "beacons_unknown": 0,
       "credentials": [
         {
+          "id": "10",
           "description": "RSpec Test",
           "token": "7afb0cbdbb9cac99bb65dea9472972f142d7ccf2711fc6b3",
           "last_used_at": null
@@ -245,6 +251,7 @@ Director-API-Version: 1.0
       "beacons_unknown": 0,
       "credentials": [
         {
+          "id": "9",
           "description": "RSpec Test",
           "token": "4e677c63193eba8adef8b6188838df581e8ce5067e443c3f",
           "last_used_at": null
@@ -333,6 +340,7 @@ Director-API-Version: 1.0
       "beacons_unknown": 0,
       "credentials": [
         {
+          "id": "45",
           "description": "RSpec Test",
           "token": "750681b8bd7b70f9bdc9d6514c013501e4394b169d17ee6d",
           "last_used_at": null
