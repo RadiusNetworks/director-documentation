@@ -65,11 +65,11 @@ header:
 Content-Type: application/vnd.rn+json
 ```
 
-## Versions
-
-### V1
+## Resources
 
 - [Root Endpoint](api/v1/root_endpoint)
 - [Teams](api/v1/teams)
 - [Beacons](api/v1/beacons)
-- [SDK Tokens](api/vi/tokens)
+- [SDK Tokens](api/v1/tokens)
+
+
