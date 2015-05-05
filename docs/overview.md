@@ -11,7 +11,7 @@ located and alerts you when they need attention.
 
 ## Public API Resources
 
-The [Director API](docs/api) provides programmable access to the rich content
+The [Director API](api) provides programmable access to the rich content
 about your beacon fleet. It is designed to integrate Director with other
 systems. It is specifically intended to provide access to the features and
 functionality available through the web interface.

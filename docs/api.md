@@ -69,6 +69,7 @@ Content-Type: application/vnd.rn+json
 
 ### V1
 
-- [Root Endpoint](docs/api/v1/root_endpoint)
-- [Teams](docs/api/v1/teams)
-- [Beacons](docs/api/v1/beacons)
+- [Root Endpoint](api/v1/root_endpoint)
+- [Teams](api/v1/teams)
+- [Beacons](api/v1/beacons)
+- [SDK Tokens](api/vi/tokens)
