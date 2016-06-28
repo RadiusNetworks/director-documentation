@@ -10,7 +10,7 @@ of all beacons, manage the metadata that helps you identify where they are
 located and alerts you when they need attention.
 
 <h2> Activating Director </h1>
-To begin to monitor beacon status in your Director Dashboard, integrate our Campaign Kit or Proximity Kit SDK with your mobile app, and then follow the steps below:
+To begin to monitor beacon status in your Director Dashboard, integrate our <a href="https://campaignkit.radiusnetworks.com/docs/overview">Campaign Kit</a> or <a href= "https://proximitykit.radiusnetworks.com/docs/overview">Proximity Kit</a> SDK with your mobile app, and then follow the steps below:
 
 <b> Activating Director After Proximity Kit Integration </b>
 <br>
