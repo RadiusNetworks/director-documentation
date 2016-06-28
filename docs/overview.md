@@ -13,6 +13,7 @@ located and alerts you when they need attention.
 To begin to monitor beacon status in your Director Dashboard, integrate our Campaign Kit or Proximity Kit SDK with your mobile app, and then follow the steps below:
 
 <b> Activating Director After Proximity Kit Integration </b>
+<br>
 After integrating Proximity Kit for iOS or/and Android by following the steps detailed <a href= "https://proximitykit.radiusnetworks.com/docs/overview"> here </a>, follow the steps below to activate Director and begin to monitor the health status of every beacon in your fleet.
 
 1. Login to your Radius Networks <a href="https://account.radiusnetworks.com"> Account</a> and click on "Team Settings".
