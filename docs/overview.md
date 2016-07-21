@@ -29,7 +29,7 @@ After integrating Proximity Kit for iOS or/and Android by following the steps de
 You are done! Next time your app syncs with Proximity Kit, Status Kit will be automatically enabled.
 
 <b> Activating Director After Campaign Kit Integration </b> <br>
-<strong> TBD </strong>
+Please contact us at support@radiusnetworks.com for more information. We will work with you to get Director up and run, upon integration with Campaign Kit.
 
 ## Public API Resources
 
