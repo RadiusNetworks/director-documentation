@@ -9,16 +9,7 @@ Director provides a scalable, cloud-based system where you can view the status
 of all beacons, manage the metadata that helps you identify where they are
 located and alerts you when they need attention.
 
-## Activating Director
-
-To begin to monitor beacon status in your Director Dashboard, integrate our <a href="https://campaignkit.radiusnetworks.com/docs/overview">Campaign Kit</a> or <a href= "https://proximitykit.radiusnetworks.com/docs/overview">Proximity Kit</a> SDK with your mobile app, and then follow the steps below:
-
-- [Activating Director in Proximity Kit](https://proximitykit.radiusnetworks.com/docs/director)
-- [Activating Director in Campaign Kit](https://campaignkit.radiusnetworks.com/docs/director)
-
-
-<b> Activating Director After Campaign Kit Integration </b> <br>
-Please contact us at support@radiusnetworks.com for more information. We will work with you to get Director up and run, upon integration with Campaign Kit.
+---
 
 ## Public API Resources
 
@@ -26,6 +17,15 @@ The [Director API](api) provides programmable access to the rich content
 about your beacon fleet. It is designed to integrate Director with other
 systems. It is specifically intended to provide access to the features and
 functionality available through the web interface.
+
+---
+
+## Activating Director
+
+To begin to monitor beacon status in your Director Dashboard, integrate our <a href="https://campaignkit.radiusnetworks.com/docs/overview">Campaign Kit</a> or <a href= "https://proximitykit.radiusnetworks.com/docs/overview">Proximity Kit</a> SDK with your mobile app, and then follow the steps below:
+
+- [Activating Director in Proximity Kit](https://proximitykit.radiusnetworks.com/docs/director)
+- [Activating Director in Campaign Kit](https://campaignkit.radiusnetworks.com/docs/director)
 
 ## Additional Resources
 
