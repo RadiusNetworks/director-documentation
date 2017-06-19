@@ -213,6 +213,48 @@ Director-API-Version: 1.0
 }
 ```
 
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Director-Media-Type: director.v1
+Director-API-Version: 1.0
+
+{
+  "links": {
+    "beacons.team": "https://director.radiusnetworks.com/api/v1/teams/{beacons.team}"
+  },
+  "beacons": [
+    {
+      "id": "17815",
+      "name": "Beacon fez taxi",
+      "uuid": "e5fc0073-ab2f-475a-89c0-b90412bdc711",
+      "major": 47,
+      "minor": 77,
+      "description": null,
+      "beacon_model": "Generic",
+      "transmit_power": 3,
+      "measured_power": -66,
+      "advertisements_per_second": 10,
+      "battery_level": 35,
+      "last_seen": null,
+      "last_seen_threshold": 259200,
+      "offline_at": null,
+      "created_at": "2015-04-15T17:56:03.056Z",
+      "updated_at": "2015-04-15T17:56:03.056Z",
+      "meta": {
+      },
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "links": {
+        "team": "3"
+      }
+    }
+  ]
+}
+```
+
 ### Curl Example <a href="#getting-a-beacon-curl-example" class="header-link"></a>
 
 ```
