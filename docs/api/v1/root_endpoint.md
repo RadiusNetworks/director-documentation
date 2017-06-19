@@ -14,7 +14,7 @@ this API supports.
 
 The API Key is passed via the Authorization header:
 
-```
+```properties
 Authorization: Token token="secret"
 ```
 
@@ -33,19 +33,31 @@ the Authorization Header's token needs to be surrounded by double quotes (`"`).
 The content type is `vnd.rn+json` and should be set in the `Content-Type`
 header:
 
-```
+```properties
 Content-Type: application/vnd.rn+json
 ```
 
 ## Requesting Resource Endpoints <a href="#requesting-resource-endpoints" class="header-link"></a>
 
-```
+```http
 GET /api/v1
 ```
 
 ### Response <a href="#requesting-resource-endpoints-response" class="header-link"></a>
 
+```http
+Status: 200 OK
+Content-Type: application/json; charset=utf-8
+Director-Media-Type: director.v1
+Director-API-Version: 1.0
 ```
+```nginx
+Status: 200 OK
+Content-Type: application/json; charset=utf-8
+Director-Media-Type: director.v1
+Director-API-Version: 1.0
+```
+```yaml
 Status: 200 OK
 Content-Type: application/json; charset=utf-8
 Director-Media-Type: director.v1
@@ -62,7 +74,7 @@ Director-API-Version: 1.0
 
 ### Curl Example <a href="#requesting-resource-endpoints-curl-example" class="header-link"></a>
 
-```
+```shell
 curl https://director.radiusnetworks.com/api/v1 \
   -is \
   -X GET \
