@@ -46,12 +46,7 @@ GET /api/v1
 ### Response <a href="#requesting-resource-endpoints-response" class="header-link"></a>
 
 ```http
-Status: 200 OK
-Content-Type: application/json; charset=utf-8
-Director-Media-Type: director.v1
-Director-API-Version: 1.0
-```
-```nginx
+HTTP/1.1 200 OK
 Status: 200 OK
 Content-Type: application/json; charset=utf-8
 Director-Media-Type: director.v1
