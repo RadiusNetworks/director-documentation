@@ -99,6 +99,21 @@ Director-API-Version: 1.0
 }
 ```
 
+```headers
+Status: 200 OK
+Content-Type: application/json; charset=utf-8
+Director-Media-Type: director.v1
+Director-API-Version: 1.0
+```
+```json
+{
+  "links": {
+    "users.teams": "https://director.radiusnetworks.com/api/v1/teams/{users.teams}",
+    "teams.beacons": "https://director.radiusnetworks.com/api/v1/beacons/{teams.beacons}"
+  }
+}
+```
+
 ### Curl Example <a href="#requesting-resource-endpoints-curl-example" class="header-link"></a>
 
 ```shell
