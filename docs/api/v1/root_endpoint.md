@@ -18,6 +18,10 @@ The API Key is passed via the Authorization header:
 Authorization: Token token="secret"
 ```
 
+```yaml
+Authorization: Token token="secret"
+```
+
 The API Key is associated with your account and has access to all the resources
 associated with your account. Account specific API keys have different
 permissions than the web login users that can interact with the dashboard, and
@@ -34,6 +38,10 @@ The content type is `vnd.rn+json` and should be set in the `Content-Type`
 header:
 
 ```properties
+Content-Type: application/vnd.rn+json
+```
+
+```yaml
 Content-Type: application/vnd.rn+json
 ```
 
