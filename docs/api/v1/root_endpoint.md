@@ -43,15 +43,39 @@ Content-Type: application/vnd.rn+json
 GET /api/v1
 ```
 
+```http
+GET /api/v1 HTTP/1.1
+```
+
 ### Response <a href="#requesting-resource-endpoints-response" class="header-link"></a>
+
+HTTP Format
 
 ```http
 HTTP/1.1 200 OK
-Status: 200 OK
 Content-Type: application/json; charset=utf-8
 Director-Media-Type: director.v1
 Director-API-Version: 1.0
 ```
+
+HTTP Format with JSON Body
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Director-Media-Type: director.v1
+Director-API-Version: 1.0
+
+{
+  "links": {
+    "users.teams": "https://director.radiusnetworks.com/api/v1/teams/{users.teams}",
+    "teams.beacons": "https://director.radiusnetworks.com/api/v1/beacons/{teams.beacons}"
+  }
+}
+```
+
+YAML Format
+
 ```yaml
 Status: 200 OK
 Content-Type: application/json; charset=utf-8
